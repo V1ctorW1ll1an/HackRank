@@ -1,0 +1,16 @@
+/home/victor/Documents/hackrank/csharp/mini-max-sum/bin/Debug/net5.0/mini-max-sum
+/home/victor/Documents/hackrank/csharp/mini-max-sum/bin/Debug/net5.0/mini-max-sum.deps.json
+/home/victor/Documents/hackrank/csharp/mini-max-sum/bin/Debug/net5.0/mini-max-sum.runtimeconfig.json
+/home/victor/Documents/hackrank/csharp/mini-max-sum/bin/Debug/net5.0/mini-max-sum.runtimeconfig.dev.json
+/home/victor/Documents/hackrank/csharp/mini-max-sum/bin/Debug/net5.0/mini-max-sum.dll
+/home/victor/Documents/hackrank/csharp/mini-max-sum/bin/Debug/net5.0/ref/mini-max-sum.dll
+/home/victor/Documents/hackrank/csharp/mini-max-sum/bin/Debug/net5.0/mini-max-sum.pdb
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.csprojAssemblyReference.cache
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.AssemblyInfoInputs.cache
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.AssemblyInfo.cs
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.csproj.CoreCompileInputs.cache
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.dll
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/ref/mini-max-sum.dll
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.pdb
+/home/victor/Documents/hackrank/csharp/mini-max-sum/obj/Debug/net5.0/mini-max-sum.genruntimeconfig.cache
